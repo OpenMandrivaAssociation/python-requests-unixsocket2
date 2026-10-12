@@ -9,7 +9,7 @@
 
 Name:		python-requests-unixsocket2
 Version:	1.0.1
-Release:	1
+Release:	2
 Summary:	Use requests to talk HTTP via a UNIX domain socket
 License:	ISC
 Group:		Development/Python
